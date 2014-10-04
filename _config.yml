@@ -13,3 +13,4 @@ github_username:  perpusinfo
 # Build settings
 markdown: kramdown
 highlighter: pygments
+exclude: [vendor]
