@@ -2,7 +2,7 @@
 title: PERINFO 2013 Programming Class
 email: tc@perpus.info
 description: > # this means to ignore newlines until "baseurl:"
-  Dasar-dasar pemrograman otomasi perpustakaan. Topik pembahasan meliputi pengembangan *web* dan standar-standar yang berlaku di dunia perpustakaan. Bahasa yang digunakan adalah HTML, CSS, JavaScript, PHP, dan SQL. Peserta terbatas untuk mahasiswa Perpustakaan dan Informasi UPI 2013, dengan atau tanpa pengalaman pemrograman sebelumnya.
+  Dasar-dasar pemrograman otomasi perpustakaan. Topik pembahasan meliputi pengembangan web dan standar-standar yang berlaku di dunia perpustakaan. Bahasa yang digunakan adalah HTML, CSS, JavaScript, PHP, dan SQL. Peserta terbatas untuk mahasiswa Perpustakaan dan Informasi UPI 2013, dengan atau tanpa pengalaman pemrograman sebelumnya.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pc.perpus.info" # the base hostname & protocol for your site
 twitter_username: perpusinfo2013
