@@ -1,16 +1,18 @@
 # Site settings
 title: PERINFO 2013 Programming Class
-email: dimasahmad@gmail.com
+email: tc@perpus.info
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/training" # the subpath of your site, e.g. /blog/
-url: "http://perpusinfo.github.io" # the base hostname & protocol for your site
+  Dasar-dasar pemrograman otomasi perpustakaan. Topik pembahasan meliputi pengembangan *web* dan standar-standar yang berlaku di dunia perpustakaan. Bahasa yang digunakan adalah HTML, CSS, JavaScript, PHP, dan SQL. Peserta terbatas untuk mahasiswa Perpustakaan dan Informasi UPI 2013, dengan atau tanpa pengalaman pemrograman sebelumnya.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pc.perpus.info" # the base hostname & protocol for your site
 twitter_username: perpusinfo2013
 github_username:  perpusinfo
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
-exclude: [vendor]
+exclude: [vendor, Gemfile*, README*]
+timezone: Asia/Jakarta
+permalink: /:year/:categories/:title/
+gems:
+  - jekyll-redirect-from
